@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soloar Panel Robot
-author: [Richard Kuo]
+author: [jiajing1015]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -26,6 +26,7 @@ tags: [jekyll, ai]
 
 ---
 ### 應用功能說明
+敲鐘文
 
 ---
 ### 設計考量與相關技術
